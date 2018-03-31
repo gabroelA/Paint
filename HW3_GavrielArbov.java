@@ -1,5 +1,5 @@
 
-// NAME: Gavriel Arbov, ID: 311846208 //
+// NAME: Gavriel Arbov
 
 import java.awt.Color;
 import java.awt.Font;
